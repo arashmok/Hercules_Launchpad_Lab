@@ -1,0 +1,1 @@
+This repository hosts embedded projects for the Hercules TMS570LC43x microcontroller using the LAUNCHXL2-570LC43 development kit. The projects demonstrate GIO control, peripheral interfacing, and various features of the Hercules Launchpad, serving as practical examples for learning and development with this MCU platform.
